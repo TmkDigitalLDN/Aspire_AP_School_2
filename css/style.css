@@ -101,7 +101,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     line-height: 28px;
-    color: #505050;
+    color: #424141;
     margin: 0px;
 }
 
@@ -4615,3 +4615,19 @@ a.loginhere-link:hover {
     border-radius: 10px;
     object-fit: cover;
   }
+
+  .website-links{
+    text-decoration: none;
+    list-style: none;
+    
+  }
+
+  a .website-links{
+    display: flex;
+    margin-top: 50px;
+    font-weight: 600;
+    margin-left: 20px;
+    font-size: 20px;
+    
+  }
+
